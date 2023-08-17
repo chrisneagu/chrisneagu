@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrisneagu&theme=react&show_icons=true&locale=en" alt="chrisneagu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisneagu&" alt="chrisneagu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisneagu&theme=react&" alt="chrisneagu" /></p>
