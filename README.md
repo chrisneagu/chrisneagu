@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Neagu</h1>
-<h3 align="center">An aspiring Java Full-Stack Developer</h3>
+<h3 align="center">A Junior Software Engineer</h3>
 <img align="center" alt="Duke-Tomcat" width="100%" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
 
 
