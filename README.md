@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisneagu&label=Profile%20views&color=0e75b6&style=flat" alt="chrisneagu" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently learning **Spring Web Flux & Azure**
 
 - 💬 Ask me about **OOP, Java SE, Spring Boot, React & plenty more.**
 
